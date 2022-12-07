@@ -4,11 +4,12 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shulchl&show_icons=true&theme=dark" />
 </a>
+<!--
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shulchl&repo=Kiniga-Leveling" />
 </a>
 
-<!--
+
 **Shulchl/Shulchl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
